@@ -1,4 +1,4 @@
-# Ted info-retrival
+# Ted talks info-retrival
 Ted talk information retrival such as name of the speaker and topic that was delivered and likes ,link for the video and number of views .
 And I have done this project using NLP(Natural Language Processing.
 Natural language processing (NLP) is a machine learning technology that gives computers the ability to interpret, manipulate, and comprehend human language
